@@ -76,4 +76,4 @@ async def ping(message):
 	end = time.time()
 	await message.channel.send(f'Pong! Latency: {round((end - start) * 1000)}ms')
 
-client.run("NzUwMTY5OTU0NzM2Nzk5NzU0.X02oNg.3Wcr4PQEt04lfbukUgh1D8wsKjY")
+client.run("NzUwMTY5OTU0NzM2Nzk5NzU0.X02oNg.fe98-kP6_0RMEMV2IJAw8rAA8Rk")
